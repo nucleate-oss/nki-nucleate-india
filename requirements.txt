@@ -1,0 +1,11 @@
+# Scraping / storage — unpinned for now
+requests
+beautifulsoup4
+playwright
+supabase
+python-dotenv
+
+# Tooling — pinned so CI and local agree
+pytest==8.3.5
+ruff==0.11.13
+black==25.1.0
